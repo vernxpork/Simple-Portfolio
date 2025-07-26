@@ -1,1 +1,9 @@
-{}
+h1 {
+  align-text: center;
+  color: purple;
+}
+   button {
+       padding: 20px;
+       height: 10px;
+       weight: 20px;
+}
